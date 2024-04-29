@@ -1,7 +1,7 @@
 #id1 {
     width: 100%;
     /* background-image: url("./assets/bg-img.png"); */
-    background-image: linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.5)),url('https://cdn.pixabay.com/photo/2016/11/07/05/15/africa-1804896_1280.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.5)),url('./assets/bg-img.jpg');
     background-repeat: no-repeat;
     background-size:cover;
 }
